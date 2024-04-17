@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sidd180D
 - 👀 I’m interested in devlopment
 - 🌱 I’m currently learning full stack java 
-- 💞️ I’m looking to collaborate with full stack and web devlpoer community
 
 
 <!---
