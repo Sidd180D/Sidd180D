@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sidd180D
-- 👀 I’m interested in devlopment
-- 🌱 I’m currently learning full stack java 
+- 👀 I’m interested in Software Engineering 
 
 
 <!---
